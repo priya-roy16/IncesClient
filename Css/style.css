@@ -19,21 +19,19 @@ body{
   }
   
   .carousel-image-1 {
-    background: url('/img/main_1562138156.jpg');
+    background: url('img/main_1562138156.jpg');
     background-size: 100% 100%;
     width: 100%;
   }
   .carousel-image-2 {
-    background: url('/img/main_1555075649.jpg');
-    background-size: cover;
+    background: url('img/main_1555075649.jpg');
     background-size: 100% 100%;
     width: 100%;
   }
   
   
   .carousel-image-3 {
-    background: url('/img/main_1553781877.jpg');
-    background-size: cover;
+    background: url('img/main_1553781877.jpg');
     background-size: 100% 100%;
     width: 100%;
   }
